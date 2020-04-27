@@ -17,6 +17,7 @@ def test_loggingDemo():
     logger.warning("Something is in warning mode")
     logger.error("A Major error has happend")
     logger.critical("Critical issue")
+    logger.critical("Critical issue")
 
 
 
